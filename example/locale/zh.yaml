@@ -1,0 +1,4 @@
+"hello world":
+  message: "你好，世界，变量替换:${haha}"
+"hello world2":
+  message: "你好，世界"
